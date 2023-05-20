@@ -1,0 +1,63 @@
+body
+
+
+h1{
+  text-align: center;
+color: #000000;
+text-decoration: none;
+font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, Times New Roman, serif;
+margin: 0;
+padding: 0;
+
+
+
+}
+h2{
+  text-align: center;
+color: #B40001;
+text-decoration: none;
+font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, Times New Roman, serif;
+margin: 0;
+padding: 0;
+}       
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #B00300;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.logo {
+  margin-block: 50px;
+  
+  margin-right: 50px;}
+  
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #000000;
+  
+}
+
+
+    
+      body {
+              background-image: url("BR.png");
+              background-repeat: no-repeat;
+              background-size: cover;
+            }
+           
